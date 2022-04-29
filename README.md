@@ -3,5 +3,4 @@ Internship at KC-ML2 (Jun. 2020 - Aug. 2020)
 
 Conducted research on geometric properties of value functions in Reinforcement Learning and connection between representation learning and the polytopal structure of value functions  
 
-[https://blog.kc-ml2.com/value-function-geometry/](https://blog.kc-ml2.com/value-function-geometry/)  
-
+[https://www.kc-ml2.com/posts/blog_ValueFunction](https://www.kc-ml2.com/posts/blog_ValueFunction)  
